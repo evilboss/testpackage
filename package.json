@@ -1,0 +1,22 @@
+{
+  "name": "evilboss-testpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilboss/testpackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "evilboss <jr.evilboss@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilboss/testpackage/issues"
+  },
+  "homepage": "https://github.com/evilboss/testpackage#readme"
+}
